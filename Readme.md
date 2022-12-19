@@ -8,7 +8,7 @@
 ---
 
 ####Back-End
-- Open MidtermTest on visual studio.
+- Open MitreTestSystemBackEnd on visual studio.
 - Double click on the file that ends with sln.
 - Hit run button on top.
 
