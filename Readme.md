@@ -3,27 +3,24 @@ This is a project for testing 2 cyber security attacks (Brute Force - Password S
 - Front-end uses React.js.
 - Back-end uses C# / .NET
 - Database is MYSQL
-
---- 
----
----
+Project also includes registration and login processes.
 
 # How To Run This Project
-####Front-End
+#### Front-End
 - On your terminal go to %ThisFilesLocation% and write ``cd MidtermProjectFrontEnd``
 - If you have npm installed already, write ``npm i --force``. Otherwise install node.js first.
 - write npm start. Now front-end code should be running.
 
 ---
 
-####Back-End
+#### Back-End
 - Open MitreTestSystemBackEnd on visual studio.
 - Double click on the file that ends with sln.
 - Hit run button on top.
 
 ---
 
-####Database
+#### Database
 - On SQL Management Studio right click on the database.
 - Tasks>Restore>Database.
 - Select MidtermProject.bak.
